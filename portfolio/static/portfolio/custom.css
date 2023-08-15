@@ -1,0 +1,42 @@
+html, body, p, h1, h2, h3 {
+  font-family: 'Oswald', sans-serif;
+}
+
+a {
+    text-decoration: None;
+}
+
+.mt-1 {
+    padding-bottom:40px;
+}
+
+.blog {
+    text-align:center;
+    padding-top:20px;
+}
+
+.h5-time {
+    color:grey;
+}
+
+.h2-title {
+    color:red;
+    font-size:50px;
+}
+
+.h1-title {
+    font-size:50px;
+    text-align:center;
+    padding-bottom:50px;
+    padding-top:50px;
+}
+
+.h2-time {
+    font-size:18px;
+    color:grey;
+}
+
+.a-back {
+    text-transform:uppercase;
+    float:right;
+}
